@@ -24,6 +24,10 @@
 ![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970by90.jpg  "")
 ![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970by250.jpg  "")
 
+---
+
+**Warning!** Materials could be blocked by adblocker. Try to use another names for files.
+
 
 
 
