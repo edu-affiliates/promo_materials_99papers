@@ -2,16 +2,16 @@
 
 ### Gif animations
 
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_160_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_300_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_300_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_468_60.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_728_90.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_970_90.gif "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9901_970_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9902_336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/9902_728_90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/160_600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300_250.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300_600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/336_280.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/468_60.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/728_90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970_90.gif "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970_250.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/336_280.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/728_90.gif  "")
 
 ### Static images
 
