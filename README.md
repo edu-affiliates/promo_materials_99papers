@@ -2,16 +2,16 @@
 
 ### Gif animations
 
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-160_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-300_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-300_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-468_60.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-728_90.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-970_90.gif "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01-970_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v02-336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v02-728_90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_160_600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_300_250.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_300_600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_336_280.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_468_60.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_728_90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_970_90.gif "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v01_970_250.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v02_336_280.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/99_v02_728_90.gif  "")
 
 ### Static images
 
