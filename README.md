@@ -2,29 +2,27 @@
 
 ### Gif animations
 
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/160_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300_600.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/468_60.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/728_90.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970_90.gif "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970_250.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/336_280.gif  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/728_90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/160by600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300by250.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/300by600.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/336by280.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/468by60.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/728by90.gif  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970by90.gif "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/gif/970by250.gif  "")
 
 ### Static images
 
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/160_600.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/300_250.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/300_600.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/336_2802.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/336_280.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/468_60.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/728_902.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/728_90.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970_90.jpg  "")
-![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970_250.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/160by600.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/300by250.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/300by600.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/336by28by02.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/336by280.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/468by60.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/728by9by02.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/728by90.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970by90.jpg  "")
+![](https://github.com/edu-affiliates/promo_materials_99papers/blob/master/static/970by250.jpg  "")
 
 
 
